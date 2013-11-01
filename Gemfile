@@ -1,0 +1,10 @@
+source 'https://rubygems.org'
+
+gem 'pg'
+gem 'activerecord', '~> 3.2'
+gem 'activerecord-import', '~> 0.3'
+gem 'pry'
+gem 'perftools.rb'
+gem 'simple-tracer'
+gem 'term-ansicolor'
+gem 'ruby-prof'
